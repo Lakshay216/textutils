@@ -33,7 +33,7 @@ function App() {
       showAlert(" light mode has been enabled", "success")
       document.title = "TextUtils - lightmode"
       setTimeout(() => {
-        document.title = "TextUtils - home"
+        document.title = "TextUtils "
       }, 2000);
     }
 
