@@ -24,7 +24,7 @@ function App() {
       showAlert("dark mode has been enabled", "success")
       document.title = "TextUtils - darkmode"
       setTimeout(() => {
-        document.title = "TextUtils - home"
+        document.title = "TextUtils "
       }, 2000);
     }
     else {
